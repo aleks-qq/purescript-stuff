@@ -1,4 +1,4 @@
-# purescript-stuff
+# Trying out purescript and react
 
 1. npm install
 2. psc-package install
